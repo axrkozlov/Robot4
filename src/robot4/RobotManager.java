@@ -28,6 +28,7 @@ public class RobotManager {
         robot.setCourse(90.);
         robot.forward(150);
         System.out.println(robot.getX()+" : "+robot.getY());
+        System.out.println(robot.getX()+" : "+robot.getY());
         
         /*
                 // Количество сторон многоугольника
